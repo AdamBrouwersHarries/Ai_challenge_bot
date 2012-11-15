@@ -6,6 +6,10 @@
 /*
     This struct represents your bot in the game of Ants
 */
+/*
+
+Random edit 
+*/
 struct Bot
 {
     State state;
